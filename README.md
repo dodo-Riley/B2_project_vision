@@ -36,4 +36,4 @@
 - 팀원 : 송종호, 구세은, 박건희, 김유정, 김강산
 
 ## [프로젝트 결과 시연 영상]
-(영상 추가 예정)
+[![안봐도보이조_시연_영상](http://img.youtube.com/vi/bYQ3Loz-oyw/0.jpg)](https://www.youtube.com/watch?v=bYQ3Loz-oyw) 
