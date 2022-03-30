@@ -38,9 +38,14 @@
 ## [프로젝트 결과 시연 영상]
 " 아래 이미지를 클릭하시면 유튜브 영상이 재생됩니다.
 - 기존 프로젝트 결과
+
 [![안봐도보이조_시연_영상](http://img.youtube.com/vi/bYQ3Loz-oyw/0.jpg)](https://www.youtube.com/watch?v=bYQ3Loz-oyw) 
+
 - 기간 연장으로 인한 추가 내역 결과(앱)
+
 [![안봐도보이조_시연_영상](http://img.youtube.com/vi/AW_rIpD4HUI/0.jpg)](https://www.youtube.com/shorts/AW_rIpD4HUI) 
+
 - 기간 연장으로 인한 추가 내역 결과(웹)
+
 [![안봐도보이조_시연_영상(웹)](http://img.youtube.com/vi/sdPZ_Hn2L9U/0.jpg)](https://www.youtube.com/watch?v=sdPZ_Hn2L9U) 
 
