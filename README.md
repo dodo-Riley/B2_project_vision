@@ -2,7 +2,7 @@
 
 - 본 레포지토리는 2022년 멀티캠퍼스 빅데이터 기반 지능형 서비스 개발 과정 팀 프로젝트의 내용을 담고 있습니다.
 
-- 수행 기간은 2022년 3월 17일부터 3월 27일까지입니다. 
+- 수행 기간은 2022년 3월 17일부터 3월 30일까지입니다.(기존 27일까지, 3일 연장) 
 
 - 데이터셋 구축 및 전처리 내역은 세부 폴더가 아닌 `data_setup_preprocessing.ipynb`을 참고하시면 되겠습니다.
 
@@ -36,4 +36,11 @@
 - 팀원 : 송종호, 구세은, 박건희, 김유정, 김강산
 
 ## [프로젝트 결과 시연 영상]
+" 아래 이미지를 클릭하시면 유튜브 영상이 재생됩니다.
+- 기존 프로젝트 결과
 [![안봐도보이조_시연_영상](http://img.youtube.com/vi/bYQ3Loz-oyw/0.jpg)](https://www.youtube.com/watch?v=bYQ3Loz-oyw) 
+- 기간 연장으로 인한 추가 내역 결과(앱)
+[![안봐도보이조_시연_영상](http://img.youtube.com/vi/AW_rIpD4HUI/0.jpg)](https://www.youtube.com/shorts/AW_rIpD4HUI) 
+- 기간 연장으로 인한 추가 내역 결과(웹)
+[![안봐도보이조_시연_영상(웹)](http://img.youtube.com/vi/sdPZ_Hn2L9U/0.jpg)](https://www.youtube.com/watch?v=sdPZ_Hn2L9U) 
+
